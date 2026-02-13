@@ -1,0 +1,7 @@
+{
+  "name": "MediScan",
+  "description": "An intelligent medicine identifier that uses your camera to recognize pharmaceutical products, displaying brand names, ingredients, purposes, and key side effects instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
